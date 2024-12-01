@@ -1,0 +1,14 @@
+/home/bryan/github/local/aoc-2024/day1/bin/Debug/net9.0/day1
+/home/bryan/github/local/aoc-2024/day1/bin/Debug/net9.0/day1.deps.json
+/home/bryan/github/local/aoc-2024/day1/bin/Debug/net9.0/day1.runtimeconfig.json
+/home/bryan/github/local/aoc-2024/day1/bin/Debug/net9.0/day1.dll
+/home/bryan/github/local/aoc-2024/day1/bin/Debug/net9.0/day1.pdb
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.AssemblyInfoInputs.cache
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.AssemblyInfo.cs
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.csproj.CoreCompileInputs.cache
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.dll
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/refint/day1.dll
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.pdb
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/day1.genruntimeconfig.cache
+/home/bryan/github/local/aoc-2024/day1/obj/Debug/net9.0/ref/day1.dll
